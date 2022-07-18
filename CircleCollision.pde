@@ -2,6 +2,7 @@
  * Code Adapted by: Shyamal Chandra
  * Circle Collision with Swapping Velocities
  * by Ira Greenberg. 
+ * Source location: https://processing.org/examples/circlecollision.html
  * 
  * Based on Keith Peter's Solution in
  * Foundation Actionscript Animation: Making Things Move!
