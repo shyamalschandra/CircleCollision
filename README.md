@@ -17,6 +17,6 @@
 
 ------------------------------
 
-Screenshot in Action:
+## Screenshot in Action:
 
 <img width="1917" alt="Screen Shot 2022-07-18 at 2 29 52 AM" src="https://user-images.githubusercontent.com/9545735/179463584-b652017a-4102-45dd-8726-dd35ad4fa438.png">
