@@ -3,7 +3,7 @@
 # CircleCollision
 ## Processing 4 code for CircleCollision.
 ### Version 0.1 alpha
-### Instruction for MacOS Monterey 12.4
+### Instructions for MacOS Monterey 12.4 **only**
 
 ------------------------------
 
