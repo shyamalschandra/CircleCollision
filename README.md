@@ -5,6 +5,10 @@
 ### Version 0.1 alpha
 ### Instructions for MacOS Monterey 12.4 **only**
 
+To quickly run without downloading source and installing Processing 4, please do the following:
+
+[Release Builds for multi-platforms](https://github.com/shyamalschandra/CircleCollision/releases)
+
 ------------------------------
 
 ## Instructions to run:
