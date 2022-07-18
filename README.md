@@ -9,7 +9,7 @@
 
 ## Instructions to run:
 
-1. Install Github CLI on your Mac.
+1. Install [Github CLI](https://cli.github.com) on your Mac.
 2. Do a `gh repo clone shyamalschandra/CircleCollision`.
 3. Install [Processing 4](https://processing.org/download) on your Mac.
 4. Do a `open CircleCollision.pde` on your Mac.
